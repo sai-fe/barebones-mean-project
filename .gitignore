@@ -1,2 +1,25 @@
+# BUILD SYSTEMS #
+################
 node_modules/
 dist/
+build/
+maps/
+.sass-cache
+*.css.map
+
+# LOGS AND DATABASES #
+######################
+*.log
+*.sql
+*.sqlite
+
+# PACKAGES #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
